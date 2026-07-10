@@ -1,0 +1,23 @@
+=== File Size Inspector — scan completed at 2026-07-10 12:02:13 ===
+Directory: D:\UE World\ios-test\iostest_UE_Project
+Size limit: 25 MB
+Files scanned: 2490
+Files exceeding limit: 17
+
+D:\UE World\ios-test\iostest_UE_Project\Plugins\Nakama\Binaries\Win64\UnrealEditor-NakamaUnreal.pdb  (71.12 MB)
+D:\UE World\ios-test\iostest_UE_Project\Plugins\Nakama\Binaries\Win64\UnrealEditor-NakamaBlueprints.pdb  (63.71 MB)
+D:\UE World\ios-test\iostest_UE_Project\Plugins\Nakama\Binaries\Win64\UnrealEditor-NakamaTests.pdb  (60.25 MB)
+D:\UE World\ios-test\iostest_UE_Project\Plugins\HealthKitPlugin\Binaries\Win64\UnrealEditor-HealthKitPlugin.pdb  (55.48 MB)
+D:\UE World\ios-test\iostest_UE_Project\Plugins\FastNoisa268f1df273fV12\Binaries\Win64\UnrealEditor-FastNoiseGenerator.pdb  (55.07 MB)
+D:\UE World\ios-test\iostest_UE_Project\Plugins\FastNoisa268f1df273fV12\Binaries\Win64\UnrealEditor-FastNoise.pdb  (55.02 MB)
+D:\UE World\ios-test\iostest_UE_Project\Plugins\IOSURLLauncher\Binaries\Win64\UnrealEditor-IOSURLLauncher.pdb  (54.89 MB)
+D:\UE World\ios-test\iostest_UE_Project\Plugins\Nakama\Source\NakamaCore\libnakama\win-arm64\Debug\nakama-sdk.pdb  (43.75 MB)
+D:\UE World\ios-test\iostest_UE_Project\Plugins\Nakama\Source\NakamaCore\libnakama\win-x64\Debug\nakama-sdk.pdb  (43.73 MB)
+D:\UE World\ios-test\iostest_UE_Project\Content\StylizedGrass\Textures\Landscape\T_BeachSand_Normal.uasset  (42.43 MB)
+D:\UE World\ios-test\iostest_UE_Project\Content\StylizedGrass\Demo\DemoMap_Cinematic.umap  (40.22 MB)
+D:\UE World\ios-test\iostest_UE_Project\Content\StylizedGrass\Textures\Landscape\T_BeachSand_BaseColor.uasset  (36.31 MB)
+D:\UE World\ios-test\iostest_UE_Project\Content\Characters\Mannequins\Meshes\SKM_Quinn.uasset  (34.8 MB)
+D:\UE World\ios-test\iostest_UE_Project\Content\SoStylized\Environment\Water\Textures\T_Water4_N.uasset  (33.71 MB)
+D:\UE World\ios-test\iostest_UE_Project\Content\Characters\Mannequins\Meshes\SKM_Manny.uasset  (32.94 MB)
+D:\UE World\ios-test\iostest_UE_Project\Content\StylizedGrass\Textures\Landscape\T_BeachSand_OcclusionRoughnessMetallic.uasset  (32.27 MB)
+D:\UE World\ios-test\iostest_UE_Project\Content\StylizedGrass\Textures\Landscape\T_Grass_BaseColor.uasset  (31.17 MB)
